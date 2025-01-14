@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Questao32",
+            "request": "launch",
+            "mainClass": "Questao32",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao12",
+            "request": "launch",
+            "mainClass": "Questao12",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao17",
+            "request": "launch",
+            "mainClass": "Questao17",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Questao1",
+            "request": "launch",
+            "mainClass": "Questao1",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao10",
+            "request": "launch",
+            "mainClass": "Questao10",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao11",
+            "request": "launch",
+            "mainClass": "Questao11",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao13",
+            "request": "launch",
+            "mainClass": "Questao13",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao15",
+            "request": "launch",
+            "mainClass": "Questao15",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao2",
+            "request": "launch",
+            "mainClass": "Questao2",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao3",
+            "request": "launch",
+            "mainClass": "Questao3",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao4",
+            "request": "launch",
+            "mainClass": "Questao4",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao5",
+            "request": "launch",
+            "mainClass": "Questao5",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao6",
+            "request": "launch",
+            "mainClass": "Questao6",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao7",
+            "request": "launch",
+            "mainClass": "Questao7",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao8",
+            "request": "launch",
+            "mainClass": "Questao8",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        },
+        {
+            "type": "java",
+            "name": "Questao9",
+            "request": "launch",
+            "mainClass": "Questao9",
+            "projectName": "Java Questões Condicionais_550a9aca"
+        }
+    ]
+}
